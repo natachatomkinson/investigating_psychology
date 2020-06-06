@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Chapter 1: Exposing the authoritarian personality"
 date:   2020-06-06 17:14:11 +0100
 ---
@@ -24,10 +24,10 @@ Explanation based on personality rather than situation
         - Personality theory with 5 dimensions
 
 1. Psychoanalysis
+    - Set of theories and therapeutic methods exploring the unconscious processes influencing human behaviour.
 
-Set of theories and therapeutic methods exploring the unconscious processes influencing human behaviour.
+        More interested in development than measurement.
 
-More interested in development than measurement.
 
 1. Authoritarian personality
 

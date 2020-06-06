@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Chapter 1: Exposing the authoritarian personality"
 date:   2020-06-06 17:14:11 +0100
 ---

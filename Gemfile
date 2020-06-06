@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-gem "just-the-docs" 
-gem "jekyll", "~> 4.0.0"
+gem "minima" 
 
+gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"

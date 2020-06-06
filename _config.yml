@@ -27,7 +27,7 @@ url: "https://psychology.natachatomkinson.co.uk" # the base hostname & protocol 
 github_username:  natachatomkinson
 
 # Build settings
-theme: just-the-docs
+theme: minima
 plugins:
   - jekyll-feed
 

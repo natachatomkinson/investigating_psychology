@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chapter 1: Exposing the authoritarian personality"
+title:  "Introduction"
 date:   2020-06-06 17:14:11 +0100
 ---
 
@@ -37,4 +37,4 @@ Kind of personality typified by obedience to authority, strict adherence to rule
 * Psychologists largely agree that personality plays an important part in how people behave
 * Many theories have been developed to define and measure personality
 * Freud argued that personality consists of 2 elements: conscious and unconscious
-* After WWII, Adorno and co examined what makes people susceptible to extreme ideologies
+* After WWII, Adorno and co examined what makes people susceptible to extreme ideologies, their research led to the concept of **authoritarian personality**
